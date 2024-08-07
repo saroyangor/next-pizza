@@ -11,3 +11,4 @@ export { ChooseProductForm } from "./choose-product-form";
 export { ProductsGroupList } from "./products-group-list";
 export { ProductForm } from "./product-form";
 export { Stories } from "./stories";
+export { Providers } from "./providers";
